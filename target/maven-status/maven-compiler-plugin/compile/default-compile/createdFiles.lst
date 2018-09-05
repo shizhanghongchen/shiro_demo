@@ -1,0 +1,13 @@
+com/mmall/demo2/CredentialMatcher.class
+com/mmall/demo2/DruidConfiguration.class
+com/mmall/demo2/ServletInitializer.class
+com/mmall/demo2/model/Role.class
+com/mmall/demo2/ShiroConfiguration.class
+com/mmall/demo2/AuthRealm.class
+com/mmall/demo2/Demo2Application.class
+com/mmall/demo2/service/UserService.class
+com/mmall/demo2/model/Permission.class
+com/mmall/demo2/controller/TestController.class
+com/mmall/demo2/model/User.class
+com/mmall/demo2/mapper/UserMapper.class
+com/mmall/demo2/service/UserServiceImpl.class
